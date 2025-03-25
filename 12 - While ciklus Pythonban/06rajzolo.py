@@ -1,1 +1,1 @@
-print("xd")
+###beleverem a faszom ebbe a szarba már
