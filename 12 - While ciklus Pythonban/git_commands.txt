@@ -1,0 +1,13 @@
+Before starting:
+    cd [local directory]
+    git pull
+
+When finished:
+    *stage changes in vsc*
+    git add .
+    git commit "-m" "Message for the git change"
+    git push
+
+
+If needed:
+git status
