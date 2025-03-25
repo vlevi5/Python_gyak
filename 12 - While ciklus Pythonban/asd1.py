@@ -1,1 +1,0 @@
-print("i just wanna get rid of all this bullshit")
