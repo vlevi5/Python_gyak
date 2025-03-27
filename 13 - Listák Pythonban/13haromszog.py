@@ -5,7 +5,6 @@ matrix = [
     [5, 7, 1, 4],
 ]
 
-
 i = 0
 
 while i < len(matrix):
@@ -13,22 +12,7 @@ while i < len(matrix):
 
     while j < i + 1:
         print(f"{matrix[i][j]},", end="")
-
         j += 1
-
+    
     print()
     i += 1
-
-lista = [1.4, 2.6, 1.34, 9.6, 5.4]
-
-osszeg = 0
-i = 0
-
-while i < len(lista):
-    osszeg += lista[i]
-
-    i += 1
-
-atlag = osszeg / len(lista)
-
-print(f"A lista elemeinek átlaga: {atlag}")
