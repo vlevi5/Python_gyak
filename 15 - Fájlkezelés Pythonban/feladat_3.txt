@@ -1,0 +1,4 @@
+Budapest	10	134412
+Szeged	2	9723
+Debrecen	18	86722
+Balatonfüred	5	98302
