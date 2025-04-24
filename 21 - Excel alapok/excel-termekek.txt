@@ -1,0 +1,5 @@
+Termékek	Készleten
+banán	10
+szőlő	20
+alma	0
+dió	25
