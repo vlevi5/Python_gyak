@@ -1,0 +1,15 @@
+A tömegközlekedés
+
+	Taxi
+Repülőgép	Busz
+Metró		Vonat
+	Villamos
+
+Igénybevételre jogosító igazolás fajtái:
+Jegy
+Bérlet
+Zseton
+Mágneskártya
+Smartcard
+
+Köszönöm, a figyelmet!
