@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150mm"
+   height="150mm"
+   viewBox="0 0 150 150"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   sodipodi:docname="adidas-hegy.svg"
+   inkscape:export-filename="adidas-hegylogo.png"
+   inkscape:export-xdpi="86.698669"
+   inkscape:export-ydpi="86.698669"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.4770342"
+     inkscape:cx="285.36915"
+     inkscape:cy="356.45755"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#ffffffff" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Réteg 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3"
+       transform="translate(3.5550539,12.615166)">
+      <g
+         id="g2"
+         transform="translate(1.0133207,-5.3199337)">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.607661"
+           id="rect1"
+           width="21.166666"
+           height="66.145836"
+           x="-65.153297"
+           y="-121.37162"
+           transform="rotate(150)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.607661"
+           id="rect1-8"
+           width="21.166666"
+           height="66.145836"
+           x="-37.726528"
+           y="-126.92278"
+           transform="rotate(150)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.607661"
+           id="rect1-1"
+           width="21.166666"
+           height="66.145836"
+           x="-10.299753"
+           y="-132.47394"
+           transform="rotate(150)" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.226989"
+           id="rect2"
+           width="93.357193"
+           height="52.009426"
+           x="23.753029"
+           y="68.149826" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:38.8056px;text-align:start;letter-spacing:-1.05833px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="12.869631"
+         y="90.565544"
+         id="text2"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.8056px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:-1.05833px;fill:#000000;stroke-width:0.264583"
+           x="12.869631"
+           y="90.565544">adidas</tspan></text>
+    </g>
+  </g>
+</svg>
