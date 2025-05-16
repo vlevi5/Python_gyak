@@ -1,0 +1,49 @@
+h1,
+h2 {
+  font-family: "Linux Libertine", "Georgia", "Times", "Source Serif Pro", serif;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #a2a9b1;
+  font-weight: normal;
+  margin-bottom: 0;
+  margin-top: 16px;
+}
+
+p,
+li {
+  font-family: sans-serif;
+  line-height: 1.57;
+}
+
+.elrendezes {
+  max-width: 125ch;
+}
+
+.leirasok {
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+.tabla {
+  border: 1px solid #a2a9b1;
+}
+
+#tablacim {
+  font-family: "Linux Libertine", "Georgia", "Times", "Source Serif Pro", serif;
+  font-size: 21px;
+  text-align: center;
+  margin: 0;
+}
+
+#tablaleiras {
+  text-align: center;
+  margin: 0;
+  font-weight: bold;
+}
+
+.tablafejlec {
+  background-image: url("hatter/fejlechatter.png");
+  background-size: auto 100%;
+  background-position: top right;
+  background-repeat: no-repeat;
+  background-color: #ffcc66;
+}
