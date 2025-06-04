@@ -1,0 +1,8 @@
+i = 0
+szamok = [12, 43, 21, 8, 74]
+
+for elem in szamok:
+    if elem > i:
+        i = elem
+
+print(f"A legnagyobb szám a listából: {i}")
